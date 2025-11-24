@@ -10,7 +10,7 @@
 
 **Full-Stack Developer | Prague, Czech Republic 🇨🇿**
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com) • [Portfolio](https://yourportfolio.com)
+📧 [simcheraandrij@gmail.com](mailto:simcheraandrij@gmail.com) • 📱 [+420 776 163 877](tel:+420776163877) • 💼 [LinkedIn](https://www.linkedin.com/in/andriy-simchera-835165359/)
 
 </div>
 
@@ -151,7 +151,7 @@ const metis = {
         deployment: ["Render", "Vercel"]
     },
     
-     learning: [
+    learning: [
         "Azure Cloud",
         "Docker & Kubernetes", 
         "Blockchain Development",
@@ -183,10 +183,12 @@ const metis = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-simchera-835165359/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simcheraandrij@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+420776163877)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metissi)
+
+**📧 simcheraandrij@gmail.com | 📱 +420 776 163 877**
 
 </div>
 
