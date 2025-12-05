@@ -50,9 +50,34 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🌐 **Streamify** - Real-Time Language Learning Platform
+### 1. 🏠 **BookingPro** - Airbnb Clone Platform
 
-**🔗 [Live Demo](https://realtime-chat-app-4-streamify.onrender.com/)**
+**🔗 [GitHub Repository](https://github.com/metisssi/booking-pro)**
+
+> Full-stack property booking platform with role-based access control
+
+**Tech Stack:**
+- **Frontend:** React 19, TypeScript, Vite, TailwindCSS, DaisyUI, Zustand, React Router
+- **Backend:** NestJS 11, TypeScript, Prisma ORM
+- **Database:** PostgreSQL 15
+- **Auth:** JWT, Passport.js, bcrypt
+- **DevOps:** Docker, Docker Compose, Swagger
+
+**Key Features:**
+- ✅ JWT authentication with role-based access (GUEST, HOST, ADMIN)
+- ✅ Property management (Create, Edit, Delete)
+- ✅ Advanced property filters (city, type, price)
+- ✅ Complete booking system with status management
+- ✅ Revenue tracking for hosts
+- ✅ Review & rating system
+- ✅ Responsive design with modern UI
+- ✅ Swagger API documentation
+
+---
+
+### 2. 🌐 **Streamify** - Real-Time Language Learning Platform
+
+**🔗 [Live Demo](https://realtime-chat-app-4-streamify.onrender.com/) | [GitHub](https://github.com/metisssi/realtime-chat-app)**
 
 > Full-stack chat application with video calling for language exchange partners
 
@@ -72,9 +97,9 @@
 
 ---
 
-### 2. 🛒 **E-Commerce Store** - Full-Stack GraphQL Shop
+### 3. 🛒 **E-Commerce Store** - Full-Stack GraphQL Shop
 
-**🔗 [Live Demo](https://store-graphql-2.onrender.com/)**
+**🔗 [Live Demo](https://store-graphql-2.onrender.com/) | [GitHub](https://github.com/metisssi/store-graphql)**
 
 > Complete e-commerce platform with admin panel and payment processing
 
@@ -93,28 +118,6 @@
 - ✅ Review & rating system (1-5 stars)
 - ✅ Order tracking & status management
 - ✅ Role-based access (Admin/User)
-
----
-
-### 3. 📝 **Notes App** - Google OAuth Note-Taking
-
-**🔗 [Live Demo](https://notes2-production.onrender.com/)**
-
-> Modern note management system with Google authentication
-
-**Tech Stack:**
-- **Backend:** Node.js, Express, EJS Templates
-- **Database:** MongoDB + Mongoose
-- **Auth:** Passport.js, Google OAuth 2.0
-- **Frontend:** Bootstrap 5, Custom CSS
-
-**Key Features:**
-- ✅ Google OAuth 2.0 authentication
-- ✅ Full CRUD operations
-- ✅ Search by title & content
-- ✅ Pagination for large datasets
-- ✅ Personal notes isolation
-- ✅ Responsive mobile design
 
 ---
 
